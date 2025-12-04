@@ -1,0 +1,39 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="numpy" />
+          <option value="pandas" />
+          <option value="librosa" />
+          <option value="scikit-learn" />
+          <option value="torchaudio" />
+          <option value="torch" />
+          <option value="sounddevice" />
+          <option value="huggingface-hub" />
+          <option value="tqdm" />
+          <option value="transformers" />
+          <option value="einops" />
+          <option value="conformer" />
+          <option value="diffusers" />
+          <option value="omegaconf" />
+          <option value="s3tokenizer" />
+          <option value="scipy" />
+          <option value="tokenizers" />
+          <option value="soundfile" />
+          <option value="jiwer" />
+          <option value="matplotlib" />
+          <option value="joblib" />
+          <option value="tensorflow" />
+          <option value="keras" />
+          <option value="seaborn" />
+          <option value="openai" />
+          <option value="python-dotenv" />
+          <option value="noisereduce" />
+          <option value="PyAudio" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
